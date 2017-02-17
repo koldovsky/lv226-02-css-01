@@ -1,0 +1,6 @@
+p:hover {color: green;}
+p::first-letter {
+    font-family: 'Pacifico', cursive;
+    color: red;
+}
+
